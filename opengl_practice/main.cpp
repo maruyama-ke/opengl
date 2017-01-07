@@ -163,6 +163,7 @@ void mouse(int button, int state, int x, int y)
 
 void keyboard(unsigned char key, int x, int y)
 {
+	// ‚Æ‚è‚ ‚¦‚¸esc‚ÅI—¹
 	switch (key) {
 	case 'q':
 	case 'Q':
